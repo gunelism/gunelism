@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gunelism
-- 👀 I’m interested in psychology, science, gym, moviesss
+- 👀 I’m interested in Javascript, psychology, and gym
 - 🌱 I’m currently learning everything
 - 📫 How to reach me at [my linkedin](https://www.linkedin.com/in/gunel-ismayilova-583398a8/)
 
